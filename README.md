@@ -19,4 +19,4 @@ Faça o download do módulo readline-sync: <br>
 npm install readline-sync
 ```
 <br>
-A partir disto será possível executar a aplicação no terminal digitando o comando *node main.js* seguido da tecla *enter*.
+A partir disto será possível executar a aplicação no terminal digitando o comando **node main.js** seguido da tecla *enter*.
