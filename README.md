@@ -12,4 +12,4 @@ Módulo externo Readline-Sync;
 *É necessário ter [NodeJS](https://nodejs.org/en/) instalado*
 Faça o download do módulo readline-sync:
 ```npm install readline-sync```
-A partir disto será possível executar a aplicação no terminal digitando o **comando** node main.js 
+A partir disto será possível executar a aplicação no terminal digitando o comando *node main.js* seguido da tecla *enter*
