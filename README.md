@@ -4,12 +4,18 @@ No teste foi utilizado um módulo externo do Node.js chamado de Readline-Sync pa
 Autora: Raquel dos Santos Amaral
 Desafios:
 
+## **Recursos da Aplicação**
+Fornecer um preço de determinado produto; <br>
+Escolher qual a categoria do produto (1 - limpeza, 2 - alimentação, 3 - vestuário); <br>
+Definir se o produto necessita de refrigeração (R) ou não (N); <br>
+Gerar o valor final do produto após aplicação dos aumentos e custos finais previamente determinados;
+
 ## **Tecnologias utilizadas**
 Node.js
 Módulo externo Readline-Sync;
 
 ## **Como iniciar o projeto**
-*É necessário ter [NodeJS](https://nodejs.org/en/) instalado*
-Faça o download do módulo readline-sync:
+*É necessário ter [NodeJS](https://nodejs.org/en/) instalado* <br>
+Faça o download do módulo readline-sync: <br>
 ```npm install readline-sync```
-A partir disto será possível executar a aplicação no terminal digitando o comando *node main.js* seguido da tecla *enter*
+A partir disto será possível executar a aplicação no terminal digitando o comando *node main.js* seguido da tecla *enter*.
