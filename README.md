@@ -1,5 +1,5 @@
 # Calculadora de Preços Finais de Produtos em Node.js
-Este é um teste em Node.js implementado para seleção de Bolsa de Iniciação Científica do professor Carlos Mendes Aderaldo(UNIFOR). 
+Este é um teste em Node.js implementado para seleção de Bolsa de Iniciação Científica do professor Carlos Mendes Aderaldo (UNIFOR). 
 
 ## Recursos da Aplicação
 - Fornecer um preço de determinado produto; <br>
