@@ -8,8 +8,8 @@ Este é um teste em Node.js implementado para seleção de Bolsa de Iniciação 
 - Gerar o valor final do produto após aplicação dos aumentos e custos finais previamente determinados.
 
 ## Tecnologias utilizadas
-- Node.js;
-- Módulo externo Readline-Sync.
+- [NodeJS](https://nodejs.org/en/);
+- Módulo externo [Readline-Sync](https://www.npmjs.com/package/readline-sync).
 
 ## Como iniciar o projeto
 *É necessário ter [NodeJS](https://nodejs.org/en/) instalado.* <br>
