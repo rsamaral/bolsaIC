@@ -14,7 +14,7 @@ Este é um teste em Node.js implementado para seleção de Bolsa de Iniciação 
 ## Como iniciar o projeto
 *É necessário ter [NodeJS](https://nodejs.org/en/) instalado.* <br>
 
-Faça o download do módulo readline-sync: <br>
+Faça o download do módulo externo readline-sync digitando o comando abaixo em seu terminal: <br>
 
 ```
 npm install readline-sync
